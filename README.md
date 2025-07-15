@@ -31,9 +31,6 @@ Analyzed demographic data to identify key factors that influence bicycle purchas
 - Informed regional ad budget allocation
 - Strategic segmentation for product bundles
 
-## 🖼 Dashboard Preview
-![Bike Sales Dashboard](images/bike_sales_dashboard.png)
-
 ## 📬 Contact
 Made by **Deven Mbuyane**  
 📧 devenmbuyane@gmail.com | 🌐 [Portfolio](https://sibusiso08.github.io/DevenMbuyane.github.io/)
